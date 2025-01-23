@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "name": "reza",
+    "email": "reza@example.com",
+    "username": "reza",
+    "password": "$2b$10$v9hz3jukyOB67pARe1FdO.k7jAkK7QaCARwVwZ/M.oTWxYcyC3v12"
+  },
+  {
+    "id": 2,
+    "name": "rezah",
+    "email": "rezah@example.com",
+    "username": "rezah",
+    "password": "$2b$10$TQoqhyaru68QTsuUv4CHiOOO2hy7kvw5qdST0eW3p/leuo4rKhONy"
+  }
+]
